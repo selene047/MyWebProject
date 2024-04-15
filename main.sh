@@ -1,1 +1,1 @@
-python src/main.py
+python documents/MyWebProject/src/main.py
