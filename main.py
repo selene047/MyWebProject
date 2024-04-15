@@ -1,3 +1,4 @@
+from gencontent import generate_page
 from textnode import TextNode
 import os
 
