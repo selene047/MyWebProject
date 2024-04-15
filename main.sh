@@ -1,7 +1,10 @@
 #!/bin/bash
 
-# Change directory to src
-cd /Users/sarahlampkin/documents/MyWebProject/src
+# Generate the site
+python /Users/sarahlampkin/documents/MyWebProject/src/main.py
 
-# Run main.py
-python main.py
+# Start a simple web server
+python /Users/sarahlampkin/documents/MyWebProject/server.py --dir /Users/sarahlampkin/documents/MyWebProject/public
+
+# Exit the script
+exit
