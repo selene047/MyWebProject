@@ -5,6 +5,3 @@ cd /Users/sarahlampkin/documents/MyWebProject/src
 
 # Run main.py
 python main.py
-
-# Exit the script
-exit
